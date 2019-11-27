@@ -1,6 +1,7 @@
 Dependency Analyzer
 ===================
-test skill nodejs for [www.NaN-Labs.com](https://www.nan-labs.com/)
+test skill nodejs for <a href="https://www.nan-labs.com/" target="_blank"><b>NaN</b>Labs</a>
+
 [Requirements](./DependencyAnalizer.pdf)
 
 How to use
