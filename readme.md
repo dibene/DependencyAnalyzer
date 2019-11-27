@@ -7,10 +7,10 @@ How to use
 -----------
 1. clone repository
 2. npm install
-3. node DependencyAnalyzer <filename.csv>
-    * E.g. node DependencyAnalyzer websites.csv
+3. `node DependencyAnalyzer <filename.csv>`
+    * E.g. `node DependencyAnalyzer websites.csv`
 
 Dependecies uses
 ----------------
-cvstojson
+[cvstojson](https://www.npmjs.com/package/csvtojson)
 
