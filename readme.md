@@ -2,7 +2,7 @@ Dependency Analyzer
 ===================
 test skill nodejs for <a href="https://www.nan-labs.com/" target="_blank"><b>NaN</b>Labs</a>
 
-[Requirements](./DependencyAnalizer.pdf)
+[Requirements](./DependencyAnalyzer.pdf)
 
 How to use
 -----------
